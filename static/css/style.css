@@ -1,0 +1,15 @@
+.wrapper{
+    display: grid;
+    grid-template-columns: 30% 15% 15% 25% 15%;
+    text-align: left;
+}
+
+.gray{
+    background-color: #AAA5;
+    padding-top: 15px;
+}
+
+.blue{
+    background-color: #AEA5;
+    padding-top: 15px;
+}
